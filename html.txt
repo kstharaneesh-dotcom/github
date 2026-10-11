@@ -20,11 +20,7 @@
          <a href="https://www.google.com/">
             <img src="Fullstack.png" width="250px"><br>
          </a>
-         <h1>FULL STACK learning video."></h1>
-    </center>
-    <center>     
-         <iframe width="560" height="315" src="https://www.youtube.com/embed/5QzzeYHApV0?si=Zn9Zp39v3Zw71ZaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>     
+     
 
 
     </body>
