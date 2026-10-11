@@ -1,1 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My personal information</title>
+        <link rel="icon" href="perainfo.png">
 
+    </head>
+
+    <body>
+    <center>
+         <h1>THARANEESH K S</h1>
+         <a href="https://mail.google.com/">
+         Click here to open Gmail
+         </a>
+         <h1>ABOUT MYSELF</h1>
+         <h2>
+         <p>My name is THARANEESH K S. I am from Tamilnadu.I'm a student in indian institute of technology bhubaneshwar.I'm intersted in watching movies,playing outdoor games and etc,.Basically I'm a foodie and I'm a big fan of Thalapathy Vijay.</p> 
+         </h2>
+         <h3>Click the image.</h3>
+         <a href="https://www.google.com/">
+            <img src="Fullstack.png" width="250px"><br>
+         </a>
+         <h1>FULL STACK learning video."></h1>
+    </center>
+    <center>     
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/5QzzeYHApV0?si=Zn9Zp39v3Zw71ZaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>     
+
+
+    </body>
+</html>
